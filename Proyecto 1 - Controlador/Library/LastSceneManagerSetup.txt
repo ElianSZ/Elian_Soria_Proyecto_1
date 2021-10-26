@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/Prototype 1.unity
+- path: D:/Elian_Soria_Zamora/PMI/entregable-3-elian-soria/Entregable 3/Assets/Scenes/Entregable
+    3.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
